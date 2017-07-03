@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.14
+VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraApp", "CameraApp\CameraApp.csproj", "{969B1682-F253-41B1-919D-2359EE2F480D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraApp", "CameraApp\CameraApp.csproj", "{EC983204-E59E-4D58-8DD2-C1816FC39B6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{969B1682-F253-41B1-919D-2359EE2F480D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{969B1682-F253-41B1-919D-2359EE2F480D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{969B1682-F253-41B1-919D-2359EE2F480D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{969B1682-F253-41B1-919D-2359EE2F480D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{969B1682-F253-41B1-919D-2359EE2F480D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{969B1682-F253-41B1-919D-2359EE2F480D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EC983204-E59E-4D58-8DD2-C1816FC39B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC983204-E59E-4D58-8DD2-C1816FC39B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC983204-E59E-4D58-8DD2-C1816FC39B6A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EC983204-E59E-4D58-8DD2-C1816FC39B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC983204-E59E-4D58-8DD2-C1816FC39B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC983204-E59E-4D58-8DD2-C1816FC39B6A}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
